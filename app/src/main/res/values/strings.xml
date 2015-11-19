@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebServicePractice</string>
+
+    <string name="email">Enter email address</string>
+    <string name="pwd">Enter password</string>
+    <string name="add">Register</string>
+    <string name="add_user">Add User</string>
+</resources>
